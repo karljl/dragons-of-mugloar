@@ -1,0 +1,2 @@
+class GameNotInstantiatedError(Exception):
+    pass
